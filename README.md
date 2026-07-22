@@ -36,7 +36,7 @@ http://你的服务器IP:8858
 
 下载 APK：
 
-- [闪装1.6.0.apk](downloads/%E9%97%AA%E8%A3%851.6.0.apk)
+- [闪装1.6.0.apk](https://github.com/chaomarks/appdrop/releases/tag/v1.6.0)
 
 ## 1.6.0 更新内容
 
