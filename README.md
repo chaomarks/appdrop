@@ -1,7 +1,8 @@
 ﻿# 闪装 AppDrop
 
 闪装 AppDrop 是一个自托管的 Android APK 分发与管理工具，包含服务端 Web 管理后台和 Android 客户端。你可以用它创建仓库、上传 APK、管理应用图标和版本，并在手机/电视端浏览和下载安装。
-![Uploading image.png…]()
+<img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/88a57b0e-1b96-4698-8901-96b322e4c044" />
+
 
 ## Docker 镜像
 
